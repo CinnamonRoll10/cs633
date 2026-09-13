@@ -1,0 +1,12 @@
+# compiled binary + objects
+stencil
+*.o
+
+# slurm job output
+slurm-*.out
+
+# generated plots
+boxplot.png
+boxplot.pdf
+
+.DS_Store
